@@ -19,6 +19,6 @@ item if there are an odd number of item. The third task was to implement the fun
 
 <p align="center">
 Output: <br/>
-<img src="(https://imgur.com/a/u6rRSHS)" height="80%" width="80%" alt="Output"/>
+<img src="https://imgur.com/a/u6rRSHS" height="80%" width="80%" alt="Output"/>
 <br />
 
