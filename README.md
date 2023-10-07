@@ -19,6 +19,6 @@ item if there are an odd number of item. The third task was to implement the fun
 
 <p align="center">Terminal Output:</p>
 <p align="center">
-  <img src="./Photos/LinkedListOutput.png" alt="Alt Text" width="1100" height="300">
+  <img src="./Photos/LinkedListOutput.png" alt="Alt Text" width="1100" height="250">
 </p>
 
