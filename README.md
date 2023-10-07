@@ -17,8 +17,8 @@ item if there are an odd number of item. The third task was to implement the fun
 
 <h2>Program sample output:</h2>
 
+<p align="center">Terminal Output:</p>
 <p align="center">
-Output: <br/>
-<img src="https://imgur.com/a/u6rRSHS" height="80%" width="80%" alt="Output"/>
-<br />
+  <img src="./Photos/LinkedListOutput.png" alt="Alt Text" width="1100" height="300">
+</p>
 
