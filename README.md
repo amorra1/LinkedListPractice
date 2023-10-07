@@ -1,4 +1,4 @@
-<h1>JWipe - Linked List Practice</h1>
+<h1>Linked List Practice</h1>
 
 <h2>Problem Description</h2>
 Project consists of simple functions that make changes to a linked list. The objective of this project was to build my intuition around manipulating data structures by creating algorithms to make simple changes to linked lists. The first task was to create and traverse a linked list then implement the function print_list() to print the contents of the list to the terminal. The second task was to implement the function swap_adjacent(), which swaps adjacent items in the linked list, ignoring the last
